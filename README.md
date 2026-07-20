@@ -1,1 +1,1 @@
-# photograpy-website
+# photography-website
